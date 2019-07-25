@@ -1,1 +1,2 @@
-Test for branches - test
+Делаем для конфликта
+Test for branches
